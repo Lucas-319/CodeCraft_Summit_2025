@@ -1,4 +1,4 @@
-# 🎟️ NLW 19 - CodeCraft Summit 2025
+# 🎟️ NLW Connect 19 - CodeCraft Summit 2025
 
 Projeto desenvolvido durante a trilha Full-Stack do NLW 19, evento gratuito promovido pela Rocketseat. Essa trilha foi voltada para iniciantes que querem dar os primeiros passos no desenvolvimento front-end.
 
