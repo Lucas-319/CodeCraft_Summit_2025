@@ -1,2 +1,24 @@
-# NLW-19-CodeCraft-Summit-Full-Stack-Trail-
-Project developed during the Full-Stack track of NLW 19, a free event promoted by Rocketseat. This track was aimed at beginners who want to take their first steps in front-end development.
+# 🎟️ CodeCraft Summit 2025
+
+Projeto desenvolvido durante a trilha Full-Stack do NLW 19, evento gratuito promovido pela Rocketseat. Essa trilha foi voltada para iniciantes que querem dar os primeiros passos no desenvolvimento front-end.
+
+## 🚀 Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## 📌 Funcionalidades
+- Formulário de inscrição com e-mail e telefone.
+- Geração de link de referência para convite.
+- Contagem de inscritos por usuário.
+
+## 🛠 Como rodar o projeto?
+1. Baixe ou clone o repositório.
+2. Abra o arquivo `index.html` no navegador.
+
+## 📷 Preview
+![Preview do Projeto](https://lucas-319.github.io/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/)
+
+## 📄 Licença
+Projeto de estudo, feel free to use! 😉
+
