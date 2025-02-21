@@ -18,7 +18,7 @@ Projeto desenvolvido durante a trilha Full-Stack do NLW 19, evento gratuito prom
 3. Caso prefira, acesse o projeto pronto através do [link](https://lucas-319.github.io/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/).
 
 ## 📷 Preview
-![Preview do Projeto](https://lucas-319.github.io/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/)
+![Preview do Projeto]([https://lucas-319.github.io/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/](https://github.com/Lucas-319/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/blob/main/assets/preview-project.png?raw=true))
 
 ## 📄 Licença
 Projeto de estudo, feel free to use! 😉
