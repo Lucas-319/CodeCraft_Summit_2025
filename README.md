@@ -15,7 +15,7 @@ Projeto desenvolvido durante a trilha Full-Stack do NLW 19, evento gratuito prom
 ## 🛠 Como rodar o projeto?
 1. Baixe ou clone o repositório.
 2. Abra o arquivo `index.html` no navegador.
-3. Caso prefira, acesse o projeto pronto através do [link](https://lucas-319.github.io/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/).
+3. Caso prefira, acesse o projeto pronto através do [link](https://lucas-319.github.io/CodeCraft_Summit_2025/).
 
 ## 📷 Preview
 ![Preview do Projeto](https://github.com/Lucas-319/NLW-19-CodeCraft-Summit-Full-Stack-Trail-/blob/38757c5ebd02587a4f60dd7be574adf864d0fd6f/assets/preview-project.png)
